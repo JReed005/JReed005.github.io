@@ -1,0 +1,9 @@
+body {
+background-color: slategray
+}
+div {
+    height: 400px;
+    padding: 10px;
+    padding-left: 10px;
+    background: linear-gradient(red,slategray);
+}

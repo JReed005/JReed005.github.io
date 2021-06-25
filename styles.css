@@ -1,6 +1,6 @@
 .header {
   padding: 60px;
-  background-image: url("headerbackground.jpg");
+  background-image: url(/Images/TOWN_logo.png);
   width: auto;
   height: 100px;
 }

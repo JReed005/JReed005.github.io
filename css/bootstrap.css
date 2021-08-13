@@ -6817,8 +6817,17 @@ li a:hover {
 }
 .header {
   padding: 60px;
+  height: auto;
   text-align: center;
-  background: #1abc9c;
+  text-shadow: 2px 2px 4px #000000;
+  background-color: #122b40;
+  background-image: linear-gradient(rgb(0, 195, 255),rgb(0, 102, 255));
   color: white;
-  font-size: 30px;
+  font-size: 50px;
+}
+body {
+  background-image: "Images/Background.jpg";
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
 }
